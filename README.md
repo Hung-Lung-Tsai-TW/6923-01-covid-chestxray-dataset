@@ -1,9 +1,9 @@
-####6923 Structured Machine Learning Models and Their Applications
+6923 Structured Machine Learning Models and Their Applications
 https://sites.google.com/email.nchu.edu.tw/mlcourse/structural-machine-learning-models-and-its-applications
-E-mail: d111050005@mail.nchu.edu.tw (8111050005)
+E-mail: hugo123.tsai@gmail.com
 
-This is an exercise in learning
-From : https://github.com/ieee8023/covid-chestxray-dataset
+This is an exercise in learning  
+## From : https://github.com/ieee8023/covid-chestxray-dataset
 
 
 
